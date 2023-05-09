@@ -28,8 +28,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patriciaortuno28&show_icons=true&theme=tokyonight&locale=en" alt="patriciaortuno28" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patriciaortuno28&theme=dark" alt="patriciaortuno28" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patriciaortuno28&theme=tokyonight" alt="patriciaortuno28" /></p>
 
 <h3 align="left">Badges:</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patriciaortuno28" alt="patriciaortuno28" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patriciaortuno28&theme=tokyonight" alt="patriciaortuno28" /></a> </p>
