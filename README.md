@@ -10,6 +10,8 @@
 
 - 🔭 I’m currently working at [IDBOTIC](https://idbotic.com/)
 
+- :books: The areas with which I'm most familiar are **Fully Homomorphic Encryption, Multithreaded servers for various transport protocols and Full Stack web and mobile development**
+
 - 🌱 I’m currently learning **Rust lang, quantum computing and post-quantum encryption schemes**
 
 - 📫 How to reach me **patricia.ortuno28@gmail.com**
