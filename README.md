@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patriciaortuno28" alt="patriciaortuno28" /></a> </p>
 
-- 🔭 I’m currently working on [IDBOTIC](https://idbotic.com/)
+- 🔭 I’m currently working at [IDBOTIC](https://idbotic.com/)
 
 - 🌱 I’m currently learning **Rust lang, quantum computing and post-quantum encryption schemes**
 
