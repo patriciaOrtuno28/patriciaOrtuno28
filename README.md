@@ -18,7 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/patricia-ortu%c3%b1o-otero-55b102215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patricia-ortu%c3%b1o-otero-55b102215/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/patricia-ortu%c3%b1o-otero-55b102215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://cults3d.com/es/usuarios/patii_o/creaci%C3%B3n" target="blank"><img align="center" src="https://assets.cults3d.com/assets/logos/cults-3d-logo-ae57f2fa1b91db60c29f101ceb58a480ffe71c224b30373247d6f69057322b09.svg" alt="Cults3D" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
