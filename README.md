@@ -37,7 +37,10 @@
 <h3 align="left">Pins:</h3>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=patriciaortuno28&show_icons=true&theme=tokyonight&locale=en&repo=Loan_Prediction" alt="patriciaortuno28" />
+  <a href="https://github.com/patriciaortuno28/Loan_Prediction">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=patriciaortuno28&show_icons=true&theme=tokyonight&locale=en&repo=Loan_Prediction" alt="patriciaortuno28" />
+  </a>
+
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=patriciaortuno28&show_icons=true&theme=tokyonight&locale=en&repo=rdsv-scripts" alt="patriciaortuno28" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=patriciaortuno28&show_icons=true&theme=tokyonight&locale=en&repo=biometric-wristband-fhe" alt="patriciaortuno28" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=patriciaortuno28&show_icons=true&theme=tokyonight&locale=en&repo=MagneticFieldCylinder-ELMG2019" alt="patriciaortuno28" />
