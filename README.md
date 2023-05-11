@@ -34,14 +34,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patriciaortuno28&theme=tokyonight" alt="patriciaortuno28" /></a> </p>
 
-<h3 align="left">Pins:</h3>
+<h3 align="left">Highlighted projects:</h3>
 
 <div>
   <a href="https://github.com/patriciaortuno28/Loan_Prediction">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=patriciaortuno28&show_icons=true&theme=tokyonight&locale=en&repo=Loan_Prediction" alt="patriciaortuno28" />
   </a>
-
+<a href="https://github.com/patriciaortuno28/rdsv-scripts">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=patriciaortuno28&show_icons=true&theme=tokyonight&locale=en&repo=rdsv-scripts" alt="patriciaortuno28" />
+</a>
+<a href="https://github.com/patriciaortuno28/biometric-wristband-fhe">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=patriciaortuno28&show_icons=true&theme=tokyonight&locale=en&repo=biometric-wristband-fhe" alt="patriciaortuno28" />
+</a>
+<a href="https://github.com/patriciaortuno28/MagneticFieldCylinder-ELMG2019">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=patriciaortuno28&show_icons=true&theme=tokyonight&locale=en&repo=MagneticFieldCylinder-ELMG2019" alt="patriciaortuno28" />
+</a>
+  <a href="https://github.com/patriciaortuno28/web3-ganache-metamask-BCDA">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=patriciaortuno28&show_icons=true&theme=tokyonight&locale=en&repo=web3-ganache-metamask-BCDA" alt="patriciaortuno28" />
+</a>
+<a href="https://github.com/patriciaortuno28/PFINAL-FBID2022">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=patriciaortuno28&show_icons=true&theme=tokyonight&locale=en&repo=PFINAL-FBID2022" alt="patriciaortuno28" />
+</a>
 </div>
